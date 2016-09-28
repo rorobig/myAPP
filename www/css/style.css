@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.featured{
+	height:400px;*/
+}
+
+p {font-size: 16px; font-size: 4vw;}
+
+.movies{
+object-fit: cover;
+height: 400px;
+width: 400px;
+}
